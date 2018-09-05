@@ -1,5 +1,3 @@
-Create
-
 ![](media/b3f4cf25cc2fd176c8e3df3360bbcab8.png)
 
 **Create a PDF Embedded Viewer in your Application**
